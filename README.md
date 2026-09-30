@@ -1,4 +1,4 @@
-# Improved Handwritten Digit Recognizer
+# Handwritten Digit Recognizer
 
 An enhanced Convolutional Neural Network (CNN) for handwritten digit classification (0–9), trained on the MNIST dataset.  
 This version includes a stronger model architecture, data augmentation, robust real-world image preprocessing, and an interactive **Gradio** interface for instant predictions.
